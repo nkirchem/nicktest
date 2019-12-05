@@ -1,6 +1,8 @@
 nicktest
 ========
 
+test change
+
 Test repo for learning git
 
 adding a line
