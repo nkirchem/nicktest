@@ -1,5 +1,6 @@
 nicktest
 ========
+inserting a new line near the beginning.
 
 test change! ok!
 
